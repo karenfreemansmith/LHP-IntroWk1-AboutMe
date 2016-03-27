@@ -2,7 +2,7 @@
 ## by _Karen Freeman-Smith_
 
 ### Description
-A basic website written on the first day of Epicodus training, repurposed and expanded to be an "about me" website. [View Webpage]{http://karenfreemansmith.github.io/my-first-webpage "About Me"}
+A basic website written on the first day of Epicodus training, repurposed and expanded to be an "about me" website. View at: http://karenfreemansmith.github.io/my-first-webpage
 
 ### Setup/Installation
 _basic html files, double click to view in web browser_
