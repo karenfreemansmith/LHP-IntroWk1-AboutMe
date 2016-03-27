@@ -1,27 +1,24 @@
-# _Private Island Resort_
+# _My First Webpage_
+## by _Karen Freeman-Smith_
 
-#### _Basic Website_
+### Description
+A basic website written on the first day of Epicodus training, repurposed and expanded to be an "about me" website. [View Webpage]{http://karenfreemansmith.github.io/my-first-webpage "About Me"}
 
-#### By
-_Karen Freeman-Smith_
-
-## Description
-_A website to promote a fictional resort on an equally fictional private island._
-
-## Setup/Installation
+### Setup/Installation
 _basic html files, double click to view in web browser_
 
-## Known Bugs
-_Lots of content needed, and better css!_
+### Known Issues
+- more content needed
+- better CSS
 
-## Support & Contact
-_ For questions or comments, please email Karen at karenfreemansmith@gmail.com_
+### Support & Contact
+*For questions or comments, please email Karen at karenfreemansmith@gmail.com*
 
-## Technologies Used
-_HTML, CSS_
+### Technologies Used
+__HTML, CSS, Bootstrap__
 
 ###  License
 *GNU*
 
 
-Copyright (c) 2016 **_Karen Freeman-Smith_*
+Copyright (c) 2016 **_Karen Freeman-Smith_**

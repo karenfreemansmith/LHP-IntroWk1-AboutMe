@@ -1,3 +1,7 @@
+.lead {
+  font-style: italic;
+}
+
 /*
 h1 {
   color: #254a79;
@@ -15,16 +19,10 @@ h2 {
   text-align: center;
 }
 
-p {
-  font-family: sans-serif;
-}
+
 
 ul {
   font-size: 20px;
   line-height: 30px;
 }
 */
-img {
-  width: 150px;
-  float: left;
-}
