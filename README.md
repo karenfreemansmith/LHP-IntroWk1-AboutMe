@@ -1,6 +1,4 @@
 
- [View Webpage|http://karenfreemansmith.github.io/my-first-webpage]
-
 # :notebook: [About Me](http://karenfreemansmith.github.io/my=first-webpage) :newspaper:
 ![project screenshot](/img/screenshot.jpg)
 
