@@ -1,24 +1,30 @@
-# _My First Webpage_
-## by _Karen Freeman-Smith_
+
+# :notebook: [About Me](http://karenfreemansmith.github.io/my=first-webpage) :newspaper:
+![project screenshot](/img/screenshot.jpg)
+
+__Version 2: March 27, 2016__
+
+## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description
-A basic website written on the first day of Epicodus training, repurposed and expanded to be an "about me" website. View at: http://karenfreemansmith.github.io/my-first-webpage
+__*Website about me*__
+
+A basic website written on the first day of [Epicodus](http://epicodus.com) training, repurposed and expanded to be an "about me" website.
 
 ### Setup/Installation
-_basic html files, double click to view in web browser_
-
-### Known Issues
-- more content needed
-- better CSS
+*None required. Clone or download and extract to use*
 
 ### Support & Contact
-*For questions or comments, please email Karen at karenfreemansmith@gmail.com*
+For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+
+### Known Issues
+* Sometimes it's hard to know what to say about yourself - content needs improving
+* Pretty basic layout, could use some more interesting styling
 
 ### Technologies Used
-__HTML, CSS, Bootstrap__
+###### HTML, CSS, Bootstrap
 
-###  License
-*GNU*
-
+### Legal
+*Licensed under the GNU General Public License v3.0*
 
 Copyright (c) 2016 **_Karen Freeman-Smith_**
