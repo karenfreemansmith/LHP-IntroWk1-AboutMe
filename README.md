@@ -1,23 +1,20 @@
+# About Me (First Website)
+Version 0.0.2: March 27, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-# :notebook: [About Me](http://karenfreemansmith.github.io/my=first-webpage) :newspaper:
-![project screenshot](/img/screenshot.jpg)
+### Technologies Used
+HTML, CSS, Bootstrap, Git, Github
 
-__Version 2: March 27, 2016__
+![screenshot of project running](screenshot.png)
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
-
-### Description
-__*Website about me*__
-
-A basic website written on the first day of [Epicodus](http://epicodus.com) training, repurposed and expanded to be an "about me" website.
-
-## Technologies Used
-HTML, CSS
+## Description
+[Learn How to Program](http://learnhowtoprogram.com) Intro to Programming Week 1 Individual Project: Build 'your first website' to learn fundamentals of HTML and CSS. Repurposed and expanded to be an "about me" website.
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
-* _OR_
-* Clone diectory 
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk1-AboutMe)
+
+ __OR__
+* Clone project to your computer
 * Open index.html in your favorite browser
 
 ## Support & Contact
@@ -27,6 +24,6 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 * None
 
 ## Legal
-*Licensed under the GNU General Public License v3.0*
+* Licensed under the GNU General Public License v3.0
 
 Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
